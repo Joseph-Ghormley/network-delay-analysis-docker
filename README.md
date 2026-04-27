@@ -28,6 +28,15 @@ This project analyzes end-to-end network delay using a multi-router network simu
 The screenshot shows ICMP traffic during the simulation. 
 Packets are transmitted at different rates, demonstrating queue buildup and delay across routers.
 
+## Delay Calculation Table
+
+The full packet-by-packet delay computation is provided in the files below:
+
+- [Delay Table (PDF)](HW-01-Delay-Table-Example.pdf)
+- [Delay Table (Alternate / Excel Version)](HW-01-Delay-Table-Example (2).xlsx)
+
+These tables show how transmission delay, propagation delay, and queuing delay were calculated for each packet across all routers.
+
 ## What I Learned
 I learned how end-to-end delay is composed of transmission, propagation, and queuing delay, and how congestion builds when arrival rate exceeds service rate.
 
