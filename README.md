@@ -23,7 +23,7 @@ This project analyzes end-to-end network delay using a multi-router network simu
 
 ## Results (Screenshots)
 
-![Packet Capture](images/network-capture.png)
+![Packet Capture](network-capture.png)
 
 The screenshot shows ICMP traffic during the simulation. 
 Packets are transmitted at different rates, demonstrating queue buildup and delay across routers.
