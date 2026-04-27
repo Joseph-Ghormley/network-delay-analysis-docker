@@ -32,8 +32,7 @@ Packets are transmitted at different rates, demonstrating queue buildup and dela
 
 The full packet-by-packet delay computation is provided in the files below:
 
-- [Delay Table (PDF)](HW-01-Delay-Table-Example.pdf)
-- [Delay Table (Alternate / Excel Version)](HW-01-Delay-Table-Example (2).xlsx)
+[View Delay Table (PDF)](HW-01-Delay-Table-Example.pdf)
 
 These tables show how transmission delay, propagation delay, and queuing delay were calculated for each packet across all routers.
 
